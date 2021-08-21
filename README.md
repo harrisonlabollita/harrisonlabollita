@@ -21,9 +21,6 @@
 
 <br />
 
----
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisonlabollita&count_private=true&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonlabollita&hide_border=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [twitter]: https://twitter.com/harrylabollita
 [linkedin]: https://www.linkedin.com/in/harrison-labollita-5273b014a/
