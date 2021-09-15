@@ -1,7 +1,7 @@
 ### Hi there, I'm Harry 👋
 
 - 🔭 I’m currently working on studying the electronic structure of materials via DFT+DMFT
-- 🌱 I’m currently learning anything and everything
+- 🌱 I’m currently learning c++ and fortran
 - 📫 How to reach me: hlabolli@asu.edu
 
 ### Connect with me:
