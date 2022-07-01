@@ -1,5 +1,7 @@
 ### Hi, I'm Harry 👋
 
+Graduate student at Arizona State University in the [Botana Group](https://abotana.physics.asu.edu)
+
 - 🔭 I’m currently working on studying the electronic structure of materials via DFT+DMFT
 - 📫 How to reach me: hlabolli@asu.edu
 
