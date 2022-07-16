@@ -24,4 +24,4 @@ Graduate student at Arizona State University in the [Botana Group](https://abota
 
 
 [twitter]: https://twitter.com/harrylabollita
-[linkedin]: https://www.linkedin.com/in/harrison-labollita-5273b014a/
+[linkedin]: https://www.linkedin.com/in/harrisonlabollita/
