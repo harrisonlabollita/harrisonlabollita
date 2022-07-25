@@ -1,9 +1,9 @@
 ### Hi, I'm Harry 👋
 
-Graduate student at Arizona State University in the [Botana Group](https://abotana.physics.asu.edu)
+By day, I'm a graduate student at [Arizona State University](https://abotana.physics.asu.edu/people) working in the [Botana Group](https://abotana.physics.asu.edu). Broadly, I'm interested in using and developing computational tools to study strongly correlated materials. Specifically, I study the correlated electronic structure of rare-earth nickelates using a combination of density-functional theory (DFT) and dynamical mean-field theory (DMFT). [Here](https://harrisonlabollita.github.io/publications/) are some of recent publications. 
 
-- 🔭 I’m currently working on studying the electronic structure of materials via DFT+DMFT
-- 📫 How to reach me: hlabolli@asu.edu
+By night, I'm a wanna be [Python developer](https://github.com/harrisonlabollita), machine learning enthusiast, and [freelance tutor](https://is.gd/exAOqr)! During my freetime, I like to be outstide running 🏃‍♂️, playing tennis 🎾, or on the golf course ⛳️.
+
 
 ### Connect with me:
 
