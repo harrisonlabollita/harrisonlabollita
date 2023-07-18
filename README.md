@@ -1,9 +1,12 @@
 ### Hi, I'm Harry 👋
 
-By day, I'm a graduate student at [Arizona State University](https://abotana.physics.asu.edu/people) working in the [Botana Group](https://abotana.physics.asu.edu). Broadly, I'm interested in using and developing computational tools to study strongly correlated materials. Specifically, I study the correlated electronic structure of rare-earth nickelates using a combination of density-functional theory (DFT) and dynamical mean-field theory (DMFT). [Here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao) are some of recent publications. 
+I'm a graduate student [Arizona State University](https://abotana.physics.asu.edu/people) working in the [Botana Group](https://abotana.physics.asu.edu). I use and develop computational tools to study strongly correlated materials. Specifically, I study the electronic structure of rare-earth nickelates using ab-initio methods. Some of my recent publications can be found [here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao).
 
-By night, I'm a wanna be [Python developer](https://github.com/harrisonlabollita), machine learning enthusiast, and [freelance tutor](https://is.gd/exAOqr)! During my freetime, I like to be outstide running 🏃‍♂️, playing tennis 🎾, or on the golf course ⛳️.
-
+#### Reserach Interests 👨‍🔬 
+- Modeling strongly correlated electron materials using DFT+DMFT
+- Quantum impurity solvers applied to DMFT.
+- Data-driven/machine learnign techniques for discovery of novel materials.
+- Quantum computing algorithms for electronic structure methods.
 
 ### Connect with me:
 
