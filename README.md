@@ -24,6 +24,7 @@ I'm a graduate student [Arizona State University](https://abotana.physics.asu.ed
 <img align="left" alt="Julia" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/julia/julia.png" />
 <img align="left" alt="Cpp" width="45px"
 src="https://github.com/isocpp/logos/blob/master/cpp_logo.png"/>
+<img align="left" alt="Go" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/go/go.png" />
 <br />
 
 
