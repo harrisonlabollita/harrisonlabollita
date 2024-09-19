@@ -1,6 +1,6 @@
 ### Hi, I'm Harry 👋
 
-I'm a graduate student [Arizona State University](https://abotana.physics.asu.edu/people) working in the [Botana Group](https://abotana.physics.asu.edu). I use and develop computational tools to study strongly correlated materials. Specifically, I study the electronic structure of rare-earth nickelates using ab-initio methods. Some of my recent publications can be found [here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao).
+I'm a Flatiron Research Fellow in the Center for Computational Quantum Physics at the Flatiron Institute. I used and develop computational many-body methods to study the electronic structure of strongly correlated materials. Some of my recent publications can be found [here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao).
 
 #### Reserach Interests 👨‍🔬 
 - Modeling strongly correlated electron materials using DFT+DMFT
