@@ -5,7 +5,7 @@ I'm a Flatiron Research Fellow in the Center for Computational Quantum Physics a
 #### Reserach Interests 👨‍🔬 
 - Modeling strongly correlated electron materials using DFT+DMFT
 - Quantum impurity solvers applied to DMFT.
-- Data-driven/machine learnign techniques for discovery of novel materials.
+- Data-driven/machine learning techniques for discovery of novel materials.
 - Quantum computing algorithms for electronic structure methods.
 
 ### Connect with me:
