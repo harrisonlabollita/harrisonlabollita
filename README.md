@@ -1,9 +1,9 @@
 ### Hi, I'm Harry 👋
 
-I'm a Flatiron Research Fellow in the Center for Computational Quantum Physics at the Flatiron Institute. I used and develop computational many-body methods to study the electronic structure of quantum materials. Some of my recent publications can be found [here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao).
+I'm a Flatiron Research Fellow in the Center for Computational Quantum Physics at the Flatiron Institute. I use and develop computational many-body methods to study the electronic structure of quantum materials. Some of my recent publications can be found [here](https://scholar.google.com/citations?user=_w0ijEAAAAAJ&hl=en&oi=ao).
 
-#### Reserach Interests 👨‍🔬 
-- Modeling strongly correlated electron materials using DFT+DMFT
+#### Research Interests 👨‍🔬 
+- Modeling strongly correlated electron materials using DFT+DMFT.
 - Quantum impurity solvers applied to DMFT.
 - Data-driven/machine learning techniques for discovery of novel materials.
 - Quantum computing algorithms for electronic structure methods.
